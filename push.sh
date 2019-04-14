@@ -5,6 +5,6 @@ git pull
 
 echo '上传修改的代码'
 
-gitpush $@
+gitpush '$@'
 
 echo 'ok 完成'

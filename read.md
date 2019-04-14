@@ -6,7 +6,7 @@
 
 //进入liux root 下 检查是不是root目录 如果不是输入
 
-$ sudo root -i
+$ sudo  -i
 
 // 链接远程服务器 106.13.32.89 是自己的服务器ip
 
